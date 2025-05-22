@@ -1,0 +1,10 @@
+{
+  "debts" : "[]",
+  "bary-theme" : "\"light\"",
+  "expenseCategories" : "[\"Nákupy\",\"Účty\",\"Nájem\",\"Doprava\",\"Zábava\",\"Jídlo\"]",
+  "rentSettings" : "{\"amount\":0,\"day\":1}",
+  "financeRecords" : "[]",
+  "debtPayments" : "[]",
+  "taskCategories" : "[\"Administrativa\",\"Marketing\",\"Programování\",\"Grafika\",\"Schůzky\"]",
+  "workLogs" : "[]"
+}
